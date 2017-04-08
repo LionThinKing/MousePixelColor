@@ -1,0 +1,8 @@
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Debug\MousePixelColor.exe.config
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Debug\MousePixelColor.exe
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Debug\MousePixelColor.pdb
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Debug\MousePixelColor.Form1.resources
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Debug\MousePixelColor.Properties.Resources.resources
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Debug\MousePixelColor.csproj.GenerateResource.Cache
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Debug\MousePixelColor.exe
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Debug\MousePixelColor.pdb

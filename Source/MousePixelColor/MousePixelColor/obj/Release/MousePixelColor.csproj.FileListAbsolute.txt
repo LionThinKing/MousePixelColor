@@ -1,0 +1,16 @@
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.exe.config
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.exe
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.pdb
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.Form1.resources
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.Properties.Resources.resources
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.csproj.GenerateResource.Cache
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.exe
+c:\users\lionthinking\documents\visual studio 2012\Projects\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.pdb
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.exe.config
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.exe
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.pdb
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.exe
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\bin\Release\MousePixelColor.pdb
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.Form1.resources
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.Properties.Resources.resources
+E:\TR31N0RD\Proyectos\MousePixelColor\Source\MousePixelColor\MousePixelColor\obj\Release\MousePixelColor.csproj.GenerateResource.Cache
